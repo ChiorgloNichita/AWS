@@ -1,4 +1,3 @@
-````markdown
 # Лабораторная работа №3
 
 ## Тема: Облачные сети (Amazon VPC)
@@ -141,7 +140,6 @@ echo "<?php phpinfo(); ?>" > /var/www/html/index.php
 systemctl enable httpd
 systemctl start httpd
 ```
-````
 
 Проверка в браузере:
 `http://3.122.51.217` → страница PHPInfo успешно открылась
