@@ -39,8 +39,9 @@
 
 ### Шаг 1. Подготовка среды
 
-![alt text](images/image22.png)
-![alt text](images/image23.png)
+## ![alt text](images/image22.png)
+
+## ![alt text](images/image23.png)
 
 ### Шаг 2. Создание VPC
 
